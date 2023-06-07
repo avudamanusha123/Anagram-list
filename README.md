@@ -1,4 +1,5 @@
 # Anagram-list
+#using user input
 list1=[]
 n=int(input())
 for i in range(n):
